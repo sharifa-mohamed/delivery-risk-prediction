@@ -1,0 +1,9 @@
+mlflow
+streamlit
+pandas
+scikit-learn
+xgboost
+scipy
+psutils
+plotly
+category_encoders

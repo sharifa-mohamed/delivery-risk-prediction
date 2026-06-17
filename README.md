@@ -14,7 +14,7 @@ This project bridges experimental model research with local application deployme
 ---
 
 ## 📁 Repository Structure
-
+```text
 ├── notebooks/                  # Experimental Phase (Development & Research)
 │   ├── late_delivery_preprocessing_pipeline.ipynb  # Leakage clearance, feature maps, & VIF drops
 │   └── late_delivery_modeling_pipeline.ipynb       # Hyperparameter tuning (LR, RF, XGB) & MLflow log
@@ -34,7 +34,7 @@ This project bridges experimental model research with local application deployme
 ├── download_latest_model_assets.py # Automation script syncing models/artifacts from MLflow
 ├── requirements.txt            # System dependencies
 └── README.md                   # Project documentation
-
+```
 ---
 
 ## 🔄 Notebook Experimental Workflows
